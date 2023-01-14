@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class resultadoOperacoes {
     public static void main(String [] args){
-         Scanner read = new Scanner(System.in);
+
          int a = -5 + 8 * 6;
         int b = (55+9) % 9;
         int c = 20 + -35 / 8;
